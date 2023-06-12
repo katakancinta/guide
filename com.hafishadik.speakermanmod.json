@@ -1,0 +1,58 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/5685388909",
+      "inter": "ca-app-pub-3481270421892883/3059225569",
+      "native": "ca-app-pub-3481270421892883/9433062224"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "96e89b26f0f4f23f"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Enhance Your Garry's Mod Experience with Speakerman Mod",
+      "text": "Speakerman Mod for Garry's Mod offers a range of exciting features that take your gameplay to the next level. Here's what sets Speakerman Mod apart from other mods:"
+    },
+    {
+      "title": "Customizable Speaker System",
+      "text": "Create your own custom speaker system in Garry's Mod with Speakerman Mod. Place speakers in your virtual environment and adjust their properties to create immersive soundscapes. Whether you want to play music, ambient sounds, or voiceovers, Speakerman Mod gives you the flexibility to design your audio experience."
+    },
+    {
+      "title": "Realistic Sound Simulation",
+      "text": "Immerse yourself in realistic sound simulation with Speakerman Mod. Experience accurate audio propagation, distance attenuation, and directional sound effects. This mod adds depth and authenticity to your gameplay, making it feel more immersive and engaging."
+    },
+    {
+      "title": "Interactive Sound Controls",
+      "text": "Take control of your sound environment with interactive sound controls provided by Speakerman Mod. Adjust volume, pitch, and other audio parameters in real-time to achieve the desired effect. Trigger sound effects, music tracks, and dialogue using in-game events or scripting."
+    },
+    {
+      "title": "Dynamic Sound Effects",
+      "text": "Bring your Garry's Mod creations to life with dynamic sound effects. Speakerman Mod allows you to add dynamic audio elements that respond to in-game events, such as player actions, object interactions, or environmental triggers. Create captivating soundscapes that enhance the overall atmosphere of your gameplay."
+    },
+    {
+      "title": "Compatibility and Versatility",
+      "text": "Speakerman Mod is designed to be compatible with various other Garry's Mod addons and mods. Whether you're using it alongside other audio-related mods or integrating it into larger projects, Speakerman Mod seamlessly integrates and enhances your overall Garry's Mod experience."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "Enjoy a user-friendly interface that simplifies the process of setting up and managing your speaker systems. Speakerman Mod provides intuitive controls and options that make it easy to configure and fine-tune your audio settings, even for those new to modding."
+    },
+    {
+      "title": "Regular Updates and Support",
+      "text": "Speakerman Mod is actively maintained with regular updates and ongoing support from the development team. This ensures compatibility with the latest Garry's Mod versions and addresses any issues or bugs that may arise. Expect a continuously improved experience over time."
+    },
+    {
+      "title": "Community and Collaboration",
+      "text": "Join a vibrant community of Garry's Mod players and creators who use Speakerman Mod. Share your speaker setups, exchange ideas, and collaborate on audio-driven projects. The community provides a platform for learning, sharing, and expanding your creative possibilities."
+    },
+    {
+      "title": "Open-Source and Modding Friendly",
+      "text": "Speakerman Mod is open-source and modding friendly, encouraging customization and extension. Dive into the code, modify existing features, or create your own audio-related addons that work seamlessly with Speakerman Mod. Contribute to the modding community and help shape the future of audio in Garry's Mod."
+    }
+  ]
+}
