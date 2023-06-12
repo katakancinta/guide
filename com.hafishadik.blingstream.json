@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/4441994968",
+      "inter": "ca-app-pub-3481270421892883/2650417050",
+      "native": "ca-app-pub-3481270421892883/9024253717"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "ce986f93ca0bcda2"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Bling2 Live: The Ultimate Live Streaming Experience",
+      "text": "Bling2 Live sets itself apart from other live streaming apps with its unique features and offerings. Here's what makes it stand out:"
+    },
+    {
+      "title": "High-Quality Live Streams",
+      "text": "Experience high-quality live streams with Bling2 Live. Enjoy crisp video and clear audio, providing you with an immersive and enjoyable viewing experience."
+    },
+    {
+      "title": "Wide Range of Content",
+      "text": "Discover a diverse selection of content on Bling2 Live. From entertainment and gaming to music and sports, there's something for everyone, ensuring you never run out of exciting streams to watch."
+    },
+    {
+      "title": "Interactive Features",
+      "text": "Engage with your favorite streamers and fellow viewers through interactive features offered by Bling2 Live. Chat in real-time, send virtual gifts, participate in polls, and join interactive games for an enhanced streaming experience."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "Bling2 Live boasts a user-friendly interface, making it easy to navigate and discover new streams. The intuitive design ensures that you can quickly find and enjoy the content you love without any hassle."
+    },
+    {
+      "title": "Social Integration",
+      "text": "Connect and share your favorite streams with your friends on social media platforms. Bling2 Live allows seamless integration with popular social media networks, enabling you to expand your streaming community."
+    },
+    {
+      "title": "Personalization Options",
+      "text": "Customize your Bling2 Live experience to suit your preferences. Set up personalized recommendations, create watchlists, and follow your favorite streamers to stay updated with their latest broadcasts."
+    },
+    {
+      "title": "Cross-Platform Compatibility",
+      "text": "Enjoy Bling2 Live on various devices and platforms. Whether you're using a smartphone, tablet, or computer, Bling2 Live offers cross-platform compatibility, allowing you to stream your favorite content anytime, anywhere."
+    },
+    {
+      "title": "Regular Updates and Improvements",
+      "text": "Bling2 Live is constantly evolving with regular updates and improvements. The developers are committed to enhancing the app's performance, adding new features, and addressing user feedback to provide the best streaming experience possible."
+    },
+    {
+      "title": "Safe and Secure Environment",
+      "text": "Rest assured that your privacy and security are prioritized with Bling2 Live. The app implements robust security measures to protect user data and provides a safe environment for both streamers and viewers."
+    },
+    {
+      "title": "Community and Engagement",
+      "text": "Join a vibrant community of streamers and viewers on Bling2 Live. Interact with like-minded individuals, participate in discussions, and become part of a supportive community centered around shared interests."
+    }
+  ]
+}

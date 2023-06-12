@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/8265705810",
+      "inter": "ca-app-pub-3481270421892883/5424700306",
+      "native": "ca-app-pub-3481270421892883/4111618631"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "0b11cc44d3b99394"
+    }
+  ],
+  "asset": [
+    {
+      "title": "ExaGear Windows Emulator: Enhance Your Experience",
+      "text": "Looking to optimize your usage of ExaGear Windows Emulator? Here are some tips to enhance your experience:"
+    },
+    {
+      "title": "System Requirements",
+      "text": "Ensure that your device meets the recommended system requirements for running ExaGear Windows Emulator. This will ensure smoother performance and better compatibility with Windows applications."
+    },
+    {
+      "title": "Compatible Applications",
+      "text": "Before installing applications, verify their compatibility with ExaGear Windows Emulator. Check the compatibility list provided by the developer or user community to ensure optimal functionality."
+    },
+    {
+      "title": "Application Settings",
+      "text": "Configure the settings of your Windows applications within ExaGear Windows Emulator to suit your preferences. Customize resolution, graphics, controls, and other options to enhance your user experience."
+    },
+    {
+      "title": "Optimize Performance",
+      "text": "To optimize performance, close any unnecessary background apps or processes on your device. This will free up system resources and ensure smoother emulation of Windows applications."
+    },
+    {
+      "title": "Regular Updates",
+      "text": "Keep ExaGear Windows Emulator up to date with the latest version. Updates often include bug fixes, performance improvements, and compatibility enhancements, ensuring a better overall experience."
+    },
+    {
+      "title": "Storage Management",
+      "text": "Manage your storage efficiently to accommodate Windows applications and their associated files. Regularly clean up unnecessary files and consider expanding your storage capacity if needed."
+    },
+    {
+      "title": "Backup and Restore",
+      "text": "Back up your Windows applications and data regularly to prevent any loss or corruption. In case of any issues, you can restore your applications and data to a previously saved state."
+    },
+    {
+      "title": "Community Support",
+      "text": "Join online forums or communities dedicated to ExaGear Windows Emulator. Engage with other users, share tips and tricks, and seek help for any technical or compatibility issues you may encounter."
+    },
+    {
+      "title": "Trial and Error",
+      "text": "Experiment with different settings and configurations within ExaGear Windows Emulator to find the optimal setup for your specific needs. Don't be afraid to try different approaches and learn through trial and error."
+    },
+    {
+      "title": "Legal Considerations",
+      "text": "Ensure that you use ExaGear Windows Emulator and associated Windows applications in compliance with applicable laws and software licensing agreements. Respect intellectual property rights and avoid unauthorized usage."
+    }
+  ]
+}

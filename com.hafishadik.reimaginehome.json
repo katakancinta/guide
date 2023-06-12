@@ -1,0 +1,70 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/8150155745",
+      "inter": "ca-app-pub-3481270421892883/7882562434",
+      "native": "ca-app-pub-3481270421892883/4210910730"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "d3c749c7dcc19dd1"
+    }
+  ],
+  "asset": [
+    {
+      "title": "REimagine Home AI: Transform Your Living Space",
+      "text": "Looking to create a smart and connected home with REimagine Home AI? Here are some tips to make the most of it:"
+    },
+    {
+      "title": "Smart Devices Integration",
+      "text": "Connect and integrate compatible smart devices with REimagine Home AI. This allows you to control various aspects of your home, such as lighting, temperature, security, and entertainment, all from a central platform."
+    },
+    {
+      "title": "Customization and Personalization",
+      "text": "Customize your home automation settings based on your preferences and routines. Set up automated schedules, scenes, and triggers to enhance convenience and efficiency in your daily life."
+    },
+    {
+      "title": "Voice Control",
+      "text": "Leverage voice control capabilities with REimagine Home AI to interact with your smart home devices. Use voice commands to control lights, play music, adjust thermostats, and more, for a hands-free experience."
+    },
+    {
+      "title": "Energy Management",
+      "text": "Monitor and manage your home's energy consumption with REimagine Home AI. Track energy usage, set energy-saving modes, and receive insights to optimize your energy efficiency and reduce utility costs."
+    },
+    {
+      "title": "Security and Safety",
+      "text": "Integrate security features into your smart home setup. Use REimagine Home AI to monitor security cameras, lock doors, arm/disarm alarms, and receive real-time notifications for enhanced safety and peace of mind."
+    },
+    {
+      "title": "Automation Rules",
+      "text": "Create automation rules with REimagine Home AI to streamline tasks and increase efficiency. For example, you can automate the opening and closing of curtains based on daylight or trigger lights to turn on when you arrive home."
+    },
+    {
+      "title": "Remote Access",
+      "text": "Enjoy remote access to your home automation system with REimagine Home AI. Control and monitor your smart devices even when you're away from home, providing convenience and security on the go."
+    },
+    {
+      "title": "Data Privacy and Security",
+      "text": "Ensure the security of your smart home by following best practices for data privacy and security. Regularly update passwords, use secure Wi-Fi networks, and keep your REimagine Home AI system and connected devices up to date with the latest firmware."
+    },
+    {
+      "title": "Expandable and Scalable",
+      "text": "REimagine Home AI is designed to be expandable and scalable. As your smart home needs evolve, add new devices, sensors, or integrations to enhance the capabilities and functionality of your home automation system."
+    },
+    {
+      "title": "Technical Support and Updates",
+      "text": "Stay informed about updates, new features, and firmware releases for REimagine Home AI. Reach out to the manufacturer or consult online resources for technical support and troubleshooting assistance."
+    },
+    {
+      "title": "Experiment and Explore",
+      "text": "Don't be afraid to experiment and explore the possibilities with REimagine Home AI. Try out different automations, routines, and integrations to find the setup that best suits your lifestyle and enhances your home environment."
+    },
+    {
+      "title": "User Community",
+      "text": "Engage with the REimagine Home AI user community to exchange ideas, share tips, and learn from others' experiences. Participate in forums, online groups, and social media communities to connect with like-minded individuals."
+    }
+  ]
+}

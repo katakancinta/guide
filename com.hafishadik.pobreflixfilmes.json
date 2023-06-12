@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/7260526155",
+      "inter": "ca-app-pub-3481270421892883/1229524170",
+      "native": "ca-app-pub-3481270421892883/4977197490"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "715ff1e71e354c60"
+    }
+  ],
+  "asset": [
+    {
+      "title": "PobreFlix: Explore a World of Movies and Series",
+      "text": "Discover the amazing collection of movies and series on PobreFlix and make the most of your streaming experience with these tips:"
+    },
+    {
+      "title": "Browse and Explore",
+      "text": "Take your time to browse through the extensive library of movies and series on PobreFlix. Use different genres, categories, or search functions to find the content that matches your preferences and interests."
+    },
+    {
+      "title": "Create Watchlists",
+      "text": "Build personalized watchlists on PobreFlix to keep track of the movies and series you want to watch. This way, you can easily access them later and ensure you don't miss out on any exciting titles."
+    },
+    {
+      "title": "Recommendations and Ratings",
+      "text": "Pay attention to the recommendations and ratings provided by other users on PobreFlix. These can help you discover hidden gems or popular titles that are highly regarded by the community."
+    },
+    {
+      "title": "Read Reviews and Synopses",
+      "text": "Before diving into a movie or series, take a moment to read reviews and synopses available on PobreFlix. This will give you insights into the plot, characters, and overall quality of the content."
+    },
+    {
+      "title": "Watch in High Quality",
+      "text": "Make sure to select the highest available video quality while streaming on PobreFlix. This will enhance your viewing experience and allow you to enjoy the content in crisp and clear resolution."
+    },
+    {
+      "title": "Explore Different Genres",
+      "text": "Don't limit yourself to a single genre. PobreFlix offers a wide variety of genres, ranging from action and drama to comedy and romance. Explore different genres to discover new and exciting content."
+    },
+    {
+      "title": "Engage with the Community",
+      "text": "Connect with fellow movie and series enthusiasts on PobreFlix. Join discussion forums, social media groups, or online communities to share your thoughts, recommendations, and engage in conversations about your favorite movies and series."
+    },
+    {
+      "title": "Stay Updated",
+      "text": "Stay up to date with the latest releases and updates on PobreFlix. Follow their social media accounts, subscribe to newsletters, or enable notifications to receive timely information about new movies, series, or special events."
+    },
+    {
+      "title": "Respect Copyright Laws",
+      "text": "While enjoying the content on PobreFlix, remember to respect copyright laws and only stream the movies and series that are legally available. Avoid piracy and support the creators and artists behind the content you love."
+    },
+    {
+      "title": "Enjoy the Experience",
+      "text": "Above all, relax and enjoy the experience of watching movies and series on PobreFlix. Grab your favorite snacks, get comfortable, and immerse yourself in the captivating stories and entertainment offered by the platform."
+    }
+  ]
+}

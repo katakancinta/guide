@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/9191774677",
+      "inter": "ca-app-pub-3481270421892883/5112928867",
+      "native": "ca-app-pub-3481270421892883/2486765527"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "0466966f7722c9e7"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Clickasnap: A Unique Photography Experience",
+      "text": "Discover what sets Clickasnap apart from other photography apps and platforms. Here are some key features that make it stand out:"
+    },
+    {
+      "title": "Monetization for Photographers",
+      "text": "Clickasnap offers a unique opportunity for photographers to monetize their work. Through its built-in monetization program, photographers can earn revenue from their photos, allowing them to showcase their talent and passion while generating income."
+    },
+    {
+      "title": "Global Photography Community",
+      "text": "Join a thriving global photography community on Clickasnap. Connect with fellow photographers, share your work, and discover inspiring images from around the world. Engage in discussions, exchange feedback, and find inspiration to enhance your own photography skills."
+    },
+    {
+      "title": "High-Quality Image Display",
+      "text": "Experience your photos in their full glory with Clickasnap's high-quality image display. The platform ensures that your photos are showcased in their best form, allowing viewers to appreciate the details, colors, and composition of your images."
+    },
+    {
+      "title": "Photo Sharing and Discovery",
+      "text": "Easily share your photos with the Clickasnap community and beyond. The platform provides tools and features to promote your work and increase its visibility. Explore a vast collection of photos from photographers worldwide and discover new talents and genres."
+    },
+    {
+      "title": "Advanced Privacy and Copyright Protection",
+      "text": "Clickasnap prioritizes the privacy and copyright protection of photographers. The platform implements robust privacy settings and copyright measures to ensure that your photos are shared and viewed within the boundaries you define."
+    },
+    {
+      "title": "Interactive Features and Engagement",
+      "text": "Engage with viewers through interactive features offered by Clickasnap. Receive comments, likes, and shares on your photos, and engage in conversations with your audience. Build connections, gain exposure, and grow your photography network."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "Enjoy a user-friendly interface that makes navigating and using Clickasnap a breeze. The intuitive design allows you to easily upload, organize, and manage your photo gallery, providing a seamless and efficient user experience."
+    },
+    {
+      "title": "Regular Updates and Enhancements",
+      "text": "Clickasnap is continuously evolving with regular updates and enhancements. The development team is dedicated to improving the platform's performance, adding new features, and incorporating user feedback to provide an exceptional photography experience."
+    },
+    {
+      "title": "Cross-Platform Access",
+      "text": "Access Clickasnap across multiple platforms and devices. Whether you're using a smartphone, tablet, or computer, you can enjoy Clickasnap and engage with the photography community wherever you are."
+    },
+    {
+      "title": "Inspiration and Education",
+      "text": "Gain inspiration and expand your photography knowledge through Clickasnap. Explore featured photographers, join photography challenges and contests, and access educational resources to enhance your skills and take your photography to new heights."
+    }
+  ]
+}

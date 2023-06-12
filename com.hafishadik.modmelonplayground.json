@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/9742439018",
+      "inter": "ca-app-pub-3481270421892883/7116275679",
+      "native": "ca-app-pub-3481270421892883/1748398928"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "8df7f0caa4084822"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Melon Playground Mod: Enhanced Gaming Experience",
+      "text": "Unlock a whole new level of fun and excitement with the Melon Playground mod. Here are some features that set it apart from other mods:"
+    },
+    {
+      "title": "New Playable Characters",
+      "text": "Experience the game with unique and exclusive playable characters that are not available in the base game. Each character brings their own abilities and skills, adding a fresh twist to your gameplay."
+    },
+    {
+      "title": "Customizable Environments",
+      "text": "With the Melon Playground mod, you can customize your game environments to your liking. Change the scenery, add new obstacles or objects, and create your own unique playgrounds to explore and conquer."
+    },
+    {
+      "title": "Additional Game Modes",
+      "text": "Enjoy a variety of new game modes introduced by the Melon Playground mod. Test your skills in challenging time trials, compete with friends in multiplayer battles, or embark on exciting quests and missions."
+    },
+    {
+      "title": "Enhanced Graphics and Visual Effects",
+      "text": "Immerse yourself in stunning visuals and enhanced graphics with the Melon Playground mod. Experience improved textures, lighting effects, and overall visual enhancements that take your gaming experience to the next level."
+    },
+    {
+      "title": "New Challenges and Rewards",
+      "text": "Discover a range of new challenges and rewards introduced by the Melon Playground mod. Take on unique quests, unlock special achievements, and earn exclusive in-game rewards that add depth and replayability to your gameplay."
+    },
+    {
+      "title": "Community Support and Updates",
+      "text": "The Melon Playground mod has a dedicated community of players and developers who provide ongoing support and regular updates. Join the community, share your experiences, and stay up to date with the latest features and improvements."
+    },
+    {
+      "title": "Compatibility and Stability",
+      "text": "The Melon Playground mod is designed to be compatible with the base game and ensure a stable gaming experience. The developers work diligently to optimize the mod and address any bugs or issues that may arise."
+    },
+    {
+      "title": "Easy Installation and User-Friendly Interface",
+      "text": "Installing and using the Melon Playground mod is a breeze. The mod comes with a user-friendly interface and clear instructions, making it accessible to both experienced modders and newcomers to the modding scene."
+    },
+    {
+      "title": "Support for Multiple Platforms",
+      "text": "Whether you're playing on PC, console, or mobile, the Melon Playground mod offers support for multiple platforms. Enjoy the modded experience on your preferred gaming device without any limitations."
+    },
+    {
+      "title": "Continued Development and Innovation",
+      "text": "The Melon Playground mod is continuously evolving with new features and innovations. The development team is committed to enhancing the mod and introducing exciting updates to keep the gameplay fresh and engaging."
+    }
+  ]
+}
