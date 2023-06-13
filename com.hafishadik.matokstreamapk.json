@@ -1,0 +1,58 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/8882505683",
+      "inter": "ca-app-pub-3481270421892883/5893342270",
+      "native": "ca-app-pub-3481270421892883/8216253289"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "dc180a25a28e8dd5"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Matok Live Stream: Enjoy Live Streaming Experience",
+      "text": "Matok Live Stream is an app that allows you to enjoy live streaming with an exciting experience. Here are some distinguishing features that set Matok Live Stream apart from other streaming apps:"
+    },
+    {
+      "title": "Diverse Streaming Content",
+      "text": "Matok Live Stream offers a wide range of streaming content, including sports events, music concerts, TV shows, and creative content such as game streaming or vlogs. You can find content that matches your interests and preferences."
+    },
+    {
+      "title": "High-Quality Video",
+      "text": "The app provides high-quality video for a better viewing experience. You can enjoy streaming with high resolution and clear image quality."
+    },
+    {
+      "title": "Channel and TV Station Selection",
+      "text": "Matok Live Stream has a wide selection of channels and TV stations, both domestic and international. You can watch live broadcasts from various favorite channels and TV stations."
+    },
+    {
+      "title": "Interactive Features",
+      "text": "The app is equipped with interactive features such as live comments, chat, and interaction with content creators or other viewers. You can participate in discussions and interact in real-time while watching the stream."
+    },
+    {
+      "title": "Notifications and Updates",
+      "text": "Matok Live Stream provides notifications and updates about the latest content, special events, or ongoing live broadcasts. You won't miss out on the latest information and your favorite shows."
+    },
+    {
+      "title": "Available on Various Platforms",
+      "text": "The app can be accessed and used on various platforms, such as smartphones, tablets, or other streaming devices. You can watch streaming anywhere and anytime according to your preferences."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "Matok Live Stream has a user-friendly interface, making it easy to use for users. Intuitive navigation and attractive display enhance the viewing experience."
+    },
+    {
+      "title": "Content Updates and Feature Additions",
+      "text": "The developers of Matok Live Stream regularly update the content and add new features to enhance the user experience. You will always have fresh content and the latest features in the app."
+    },
+    {
+      "title": "Personalization Features",
+      "text": "The app provides personalization features such as bookmarking favorites, content recommendations based on your interests, or customization of viewing preferences. You can tailor the viewing experience to your liking."
+    }
+  ]
+}

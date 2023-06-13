@@ -1,0 +1,58 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/8024681598",
+      "inter": "ca-app-pub-3481270421892883/5398518254",
+      "native": "ca-app-pub-3481270421892883/4615919628"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "dc8c61d1a8fb95fb"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Play Cine: Your Ultimate Destination for Films and Series",
+      "text": "Play Cine is a comprehensive app that offers a wide range of films and series for your entertainment. Here are some distinguishing features that set Play Cine apart from other streaming platforms:"
+    },
+    {
+      "title": "Extensive Content Library",
+      "text": "Play Cine boasts an extensive content library that includes a vast collection of films and series across various genres, including action, romance, comedy, thriller, and more. You can explore a diverse selection of content to suit your preferences."
+    },
+    {
+      "title": "Seamless Streaming Experience",
+      "text": "The app provides a seamless streaming experience with smooth playback and minimal buffering. You can enjoy your favorite films and series without interruptions."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "Play Cine features a user-friendly interface that is easy to navigate. The intuitive design allows you to quickly browse and discover new content."
+    },
+    {
+      "title": "Customized Recommendations",
+      "text": "The app offers personalized recommendations based on your viewing history and preferences. You can discover new films and series that align with your interests."
+    },
+    {
+      "title": "Download and Offline Viewing",
+      "text": "Play Cine allows you to download films and series for offline viewing. You can enjoy your favorite content even without an internet connection."
+    },
+    {
+      "title": "Multi-Device Access",
+      "text": "The app supports multi-device access, allowing you to seamlessly switch between different devices. You can start watching on your smartphone and continue on your tablet or smart TV."
+    },
+    {
+      "title": "Regular Content Updates",
+      "text": "Play Cine regularly updates its content library with new films and series. You can stay up to date with the latest releases and never run out of exciting content to watch."
+    },
+    {
+      "title": "High-Quality Video and Audio",
+      "text": "Enjoy high-quality video and audio with Play Cine. The app delivers a immersive viewing experience with crisp visuals and clear sound."
+    },
+    {
+      "title": "Social Features and Interaction",
+      "text": "Engage with other users through social features and interactive elements within the app. You can share your thoughts, ratings, and reviews, and connect with fellow film and series enthusiasts."
+    }
+  ]
+}

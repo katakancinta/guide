@@ -1,0 +1,58 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/4807491310",
+      "inter": "ca-app-pub-3481270421892883/2936060347",
+      "native": "ca-app-pub-3481270421892883/1622978672"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "b9a4e296675e526d"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Kaiber AI: Enhance Your Productivity and Creativity",
+      "text": "Kaiber AI is an innovative AI-powered tool that offers a range of features to boost your productivity and unleash your creativity. Here are some key differentiators that set Kaiber AI apart from other AI tools:"
+    },
+    {
+      "title": "Advanced Natural Language Processing",
+      "text": "With Kaiber AI's advanced natural language processing capabilities, you can generate high-quality and contextually relevant content effortlessly. The tool understands the nuances of language and delivers accurate and engaging output."
+    },
+    {
+      "title": "Versatile AI Applications",
+      "text": "Kaiber AI offers a wide range of applications, including content writing, creative writing, brainstorming, and more. Whether you need assistance with generating blog posts, social media content, or even storylines, Kaiber AI has you covered."
+    },
+    {
+      "title": "Intuitive User Interface",
+      "text": "Enjoy a user-friendly and intuitive interface with Kaiber AI. The tool is designed to be easy to navigate and understand, ensuring a seamless and efficient user experience."
+    },
+    {
+      "title": "Enhanced Collaboration Features",
+      "text": "Collaborate seamlessly with Kaiber AI's built-in collaboration features. Share your work with team members, make edits in real-time, and streamline your creative process with ease."
+    },
+    {
+      "title": "Smart Suggestions and Recommendations",
+      "text": "Kaiber AI provides intelligent suggestions and recommendations to enhance your content. From word choice suggestions to headline ideas, the tool helps you refine your writing and produce captivating output."
+    },
+    {
+      "title": "Time-Saving Automation",
+      "text": "Save time and effort with Kaiber AI's automation capabilities. The tool can automate repetitive tasks, such as content generation and proofreading, allowing you to focus on higher-level creative work."
+    },
+    {
+      "title": "Constant Learning and Improvement",
+      "text": "Kaiber AI is continuously learning and improving to deliver the best results. The tool incorporates feedback and user interactions to enhance its performance and provide increasingly accurate and valuable output."
+    },
+    {
+      "title": "Secure and Confidential",
+      "text": "Rest assured that your data and information are secure with Kaiber AI. The tool prioritizes data privacy and confidentiality, ensuring that your work remains confidential throughout the creative process."
+    },
+    {
+      "title": "Responsive Customer Support",
+      "text": "Receive prompt and responsive customer support with Kaiber AI. The dedicated support team is available to assist you with any inquiries or technical issues, ensuring a smooth and satisfactory user experience."
+    }
+  ]
+}

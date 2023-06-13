@@ -1,0 +1,54 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/5019244304",
+      "inter": "ca-app-pub-3481270421892883/3438607317",
+      "native": "ca-app-pub-3481270421892883/2361345275"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "c582432a190c5a81"
+    }
+  ],
+  "asset": [
+    {
+      "title": "SummerTime Saga Pro: Uncover Secrets and Experience Adventure",
+      "text": "SummerTime Saga Pro is a premium version of the popular adventure game that offers enhanced features and exclusive content. Here are some key differentiators that set SummerTime Saga Pro apart:"
+    },
+    {
+      "title": "Full Access to Exclusive Content",
+      "text": "SummerTime Saga Pro provides full access to exclusive content that is not available in the regular version of the game. You can enjoy additional storylines, characters, quests, and locations, offering a more immersive and engaging gameplay experience."
+    },
+    {
+      "title": "No Ads and Distractions",
+      "text": "Unlike the free version, SummerTime Saga Pro is ad-free, allowing you to enjoy uninterrupted gameplay without any distractions. You can fully immerse yourself in the captivating world of SummerTime Saga without interruptions from ads."
+    },
+    {
+      "title": "Faster Progression and Unlockables",
+      "text": "SummerTime Saga Pro offers faster progression and unlocks certain features or items earlier compared to the regular version. This enables you to progress through the game more efficiently and access exclusive items or abilities."
+    },
+    {
+      "title": "Enhanced Graphics and Visuals",
+      "text": "Experience enhanced graphics and visuals in SummerTime Saga Pro. The game's art style and animations are optimized for higher-quality visuals, providing a more visually stunning and immersive gaming experience."
+    },
+    {
+      "title": "Priority Updates and Support",
+      "text": "As a SummerTime Saga Pro user, you receive priority updates and support. You can expect timely updates with new features, improvements, and bug fixes, ensuring a smooth and enjoyable gameplay experience."
+    },
+    {
+      "title": "Exclusive In-Game Rewards and Bonuses",
+      "text": "Unlock exclusive in-game rewards and bonuses as a SummerTime Saga Pro player. These rewards can include special items, outfits, or abilities that enhance your character's progress and add additional depth to your gameplay."
+    },
+    {
+      "title": "Improved Performance and Stability",
+      "text": "SummerTime Saga Pro is optimized for improved performance and stability. The game runs smoothly and efficiently, minimizing lags or crashes, and ensuring a seamless gaming experience."
+    },
+    {
+      "title": "Support the Developers",
+      "text": "By purchasing SummerTime Saga Pro, you are directly supporting the developers and contributing to the ongoing development and improvement of the game. Your support helps the developers create more content and deliver an even better gaming experience."
+    }
+  ]
+}

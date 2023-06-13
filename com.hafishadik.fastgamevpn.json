@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/9477364064",
+      "inter": "ca-app-pub-3481270421892883/9237744810",
+      "native": "ca-app-pub-3481270421892883/8666845274"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "8411b08500c14653"
+    }
+  ],
+  "asset": [
+    {
+      "title": "Fast Gaming VPN: Enhance Your Gaming Experience",
+      "text": "Fast Gaming VPN is designed to provide an optimized gaming experience. Here's how Fast Gaming VPN stands out from other VPN services:"
+    },
+    {
+      "title": "Low Latency and High Speed",
+      "text": "Fast Gaming VPN offers low latency and high-speed connections, ensuring smooth and lag-free gaming sessions. It utilizes advanced server infrastructure to minimize latency and deliver fast data transmission, allowing you to enjoy online gaming without interruptions."
+    },
+    {
+      "title": "Wide Server Network",
+      "text": "Fast Gaming VPN boasts a wide server network strategically located around the world. This extensive server coverage allows you to connect to gaming servers in various regions, enabling you to access geographically restricted games and play with friends from different locations."
+    },
+    {
+      "title": "Secure and Private Connection",
+      "text": "With Fast Gaming VPN, your gaming activities are protected by robust encryption and secure protocols. It ensures that your data and online identity are kept private and secure, safeguarding you from potential cyber threats and attacks."
+    },
+    {
+      "title": "Bypass Restrictions and Throttling",
+      "text": "Fast Gaming VPN helps you bypass restrictions imposed by your internet service provider (ISP) or network administrators. It prevents bandwidth throttling, allowing you to enjoy uninterrupted gaming even in situations where your internet connection may be limited or restricted."
+    },
+    {
+      "title": "Compatibility and Ease of Use",
+      "text": "Fast Gaming VPN is compatible with a wide range of devices and platforms, including gaming consoles, PCs, smartphones, and tablets. It offers user-friendly applications and intuitive interfaces, making it easy for both beginners and experienced users to set up and use the VPN service."
+    },
+    {
+      "title": "24/7 Customer Support",
+      "text": "Should you encounter any issues or have questions, Fast Gaming VPN provides 24/7 customer support. Their knowledgeable and responsive support team is available to assist you with any concerns or technical difficulties you may face during your gaming sessions."
+    },
+    {
+      "title": "Affordable Pricing Plans",
+      "text": "Fast Gaming VPN offers competitive and affordable pricing plans. It provides various subscription options, allowing you to choose the plan that suits your gaming needs and budget. Additionally, they may offer free trials or money-back guarantees to give you the opportunity to test the service before committing."
+    },
+    {
+      "title": "No Bandwidth Limitations",
+      "text": "Fast Gaming VPN does not impose bandwidth limitations or caps on your gaming activities. You can enjoy unlimited gaming sessions without worrying about hitting any data caps or experiencing reduced speeds."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "Fast Gaming VPN features a user-friendly interface that makes it easy to connect to VPN servers, switch between different server locations, and customize your VPN settings. The intuitive interface ensures a hassle-free gaming experience."
+    },
+    {
+      "title": "Stable and Reliable Connections",
+      "text": "Fast Gaming VPN provides stable and reliable connections to ensure consistent gameplay. It minimizes connection drops and disruptions, allowing you to stay connected to your game servers without interruptions or disconnections."
+    }
+  ]
+}

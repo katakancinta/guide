@@ -1,0 +1,62 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/8164282390",
+      "inter": "ca-app-pub-3481270421892883/6851200723",
+      "native": "ca-app-pub-3481270421892883/4225037381"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "06de98fbf5a8ba42"
+    }
+  ],
+  "asset": [
+    {
+      "title": "gDMSS Plus Camera: Advanced Surveillance and Monitoring",
+      "text": "gDMSS Plus Camera is a feature-rich app designed for advanced surveillance and monitoring. Here's what sets gDMSS Plus Camera apart from other camera apps:"
+    },
+    {
+      "title": "Wide Compatibility",
+      "text": "gDMSS Plus Camera is compatible with a wide range of devices and cameras, including IP cameras, NVRs (Network Video Recorders), DVRs (Digital Video Recorders), and more. It offers seamless integration with various camera systems, allowing you to monitor and control multiple cameras from a single app."
+    },
+    {
+      "title": "Remote Access and Live View",
+      "text": "With gDMSS Plus Camera, you can remotely access your cameras and view live video feeds from anywhere using your mobile device. Whether you're at home, at work, or on the go, you can stay connected to your surveillance system and monitor your premises in real-time."
+    },
+    {
+      "title": "Advanced Playback and Recording",
+      "text": "gDMSS Plus Camera offers advanced playback and recording features. You can review recorded footage, search for specific events or timestamps, and even take snapshots or record video clips directly from the app. This allows you to quickly retrieve and analyze important moments captured by your cameras."
+    },
+    {
+      "title": "Motion Detection and Alerts",
+      "text": "The app includes motion detection capabilities, allowing you to configure your cameras to detect motion and send real-time alerts to your mobile device. You can customize the sensitivity settings and define specific areas of interest, ensuring that you receive notifications for relevant events."
+    },
+    {
+      "title": "Two-Way Audio Communication",
+      "text": "gDMSS Plus Camera supports two-way audio communication, enabling you to listen to audio from your cameras and speak through your mobile device. This feature is useful for interactive monitoring, such as communicating with visitors or addressing potential security incidents remotely."
+    },
+    {
+      "title": "PTZ Control and Presets",
+      "text": "If your cameras support PTZ (Pan-Tilt-Zoom) functionality, gDMSS Plus Camera allows you to control the camera's movement, adjust the viewing angle, and zoom in or out using intuitive on-screen controls. You can also set and recall preset positions for quick and convenient camera positioning."
+    },
+    {
+      "title": "Secure and Encrypted Connection",
+      "text": "gDMSS Plus Camera prioritizes security and ensures that your camera connections are encrypted and secure. This helps protect your video streams and prevents unauthorized access to your surveillance system."
+    },
+    {
+      "title": "Multi-Channel Support",
+      "text": "The app supports multi-channel viewing, allowing you to simultaneously monitor multiple cameras in a split-screen or switch between different camera feeds with ease. This is particularly useful if you have a large camera system or want to keep an eye on multiple areas simultaneously."
+    },
+    {
+      "title": "Intuitive and User-Friendly Interface",
+      "text": "gDMSS Plus Camera features an intuitive and user-friendly interface that makes it easy to navigate through different camera views, access various features and settings, and customize your surveillance experience. The app's interface ensures a seamless and efficient monitoring process."
+    },
+    {
+      "title": "Cloud Storage and Backup",
+      "text": "Some versions of gDMSS Plus Camera may offer cloud storage and backup options. This allows you to store your recorded footage in the cloud, providing an extra layer of data protection and the ability to access your recordings from anywhere."
+    }
+  ]
+}

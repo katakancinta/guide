@@ -1,0 +1,58 @@
+{
+  "packagename_new_app": "",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3481270421892883/7349948073",
+      "inter": "ca-app-pub-3481270421892883/6036866409",
+      "native": "ca-app-pub-3481270421892883/9074077373"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "fcf732c7184bbf7c"
+    }
+  ],
+  "asset": [
+    {
+      "title": "inat Box TV: Your Ultimate Entertainment Companion",
+      "text": "inat Box TV is a feature-rich streaming platform that offers a wide range of entertainment options. Here are some key features that set inat Box TV apart from other streaming apps:"
+    },
+    {
+      "title": "Extensive Content Library",
+      "text": "Enjoy a vast collection of movies, TV shows, documentaries, and more with inat Box TV. The platform offers a diverse selection of content from various genres, ensuring there's something for everyone to enjoy."
+    },
+    {
+      "title": "Live TV Channels",
+      "text": "Stream your favorite TV channels live with inat Box TV. Access a wide range of local and international channels, including news, sports, entertainment, and lifestyle channels, all in one place."
+    },
+    {
+      "title": "User-Friendly Interface",
+      "text": "inat Box TV provides a user-friendly interface that makes it easy to navigate and discover content. The intuitive design and layout ensure a seamless and enjoyable streaming experience for users of all ages."
+    },
+    {
+      "title": "Personalized Recommendations",
+      "text": "Discover new content tailored to your interests with personalized recommendations on inat Box TV. The platform utilizes advanced algorithms to suggest movies and shows based on your viewing history, helping you explore new titles effortlessly."
+    },
+    {
+      "title": "Offline Viewing",
+      "text": "Take your entertainment on the go with inat Box TV's offline viewing feature. Download your favorite movies and shows to watch later, even when you don't have an internet connection."
+    },
+    {
+      "title": "Multi-Device Support",
+      "text": "Access inat Box TV on multiple devices, including smartphones, tablets, and smart TVs. Enjoy your favorite content anytime, anywhere, without any limitations."
+    },
+    {
+      "title": "Flexible Subscription Plans",
+      "text": "Choose from a variety of subscription plans that suit your needs and budget. Whether you prefer a monthly, quarterly, or annual subscription, inat Box TV offers flexible options to ensure you get the most value out of your streaming experience."
+    },
+    {
+      "title": "Regular Updates and New Releases",
+      "text": "Stay up to date with the latest movies, TV shows, and exclusive releases on inat Box TV. The platform regularly updates its content library, ensuring that you never miss out on the latest entertainment trends."
+    },
+    {
+      "title": "Customer Support",
+      "text": "inat Box TV provides reliable customer support to assist you with any inquiries or technical issues. The dedicated support team is available to address your concerns and ensure a smooth streaming experience."
+    }
+  ]
+}
